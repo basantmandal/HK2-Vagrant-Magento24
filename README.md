@@ -1,5 +1,4 @@
 ## HK2_Magento24 - The Complete Magento2.4 Compatible Box
-<br>
 
 #### This version is based on Ubuntu Server 20 & contains all applications necessary for Non Production Local Test Magento2.4 Development
 
