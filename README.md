@@ -1,5 +1,4 @@
-## HK2 Magento24 (Basant Mandal)
-## The Complete Magento2.4 Compatible Box
+## HK2_Magento24 - The Complete Magento2.4 Compatible Box
 <br>
 
 #### This version is based on Ubuntu Server 20 & contains all applications necessary for Non Production Local Test Magento2.4 Development
@@ -19,6 +18,9 @@
 - Git
 - Composer
 - Magento Cloud CLI 1.38.1
+
+**Box Link** :-
+[https://app.vagrantup.com/basantmandal/boxes/HK2_Magento24](https://app.vagrantup.com/basantmandal/boxes/HK2_Magento24)
 
 **Url's & Credentials**
 
