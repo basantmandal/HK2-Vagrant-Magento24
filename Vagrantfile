@@ -13,7 +13,7 @@ Vagrant.configure("2") do |config|
   #   config.ssh.username = 'vagrant'
   #   config.ssh.password = 'vagrant'
 
-  config.vm.box = "HK2-Magento24"
+  config.vm.box = "basantmandal/HK2_Magento24"
  	config.vm.network "private_network", ip: "192.168.56.10"
  
   # Default HTTP port
